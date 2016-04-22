@@ -17,7 +17,7 @@ public class FrameFib extends JFrame implements ActionListener{
         add(button);
         label.setPreferredSize(new Dimension(100,50));
         add(label);
-        label.setText("anwer");
+        label.setText("anwer----");
         button.addActionListener(this);
 
         setTitle("FrameFib");
